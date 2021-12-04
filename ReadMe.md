@@ -21,7 +21,7 @@ the code is provided in the DistanceLocationTest.ipynb and it's structure as fol
 
 - final_programme function: Takes 2 GPS Locations and return the route between those locations periodically with a period of 20min.
 
-- Execuition field : executes the final_programme with a given locations
+- Execution field : executes the final_programme with a given locations
 
 - Tests classes : Test possible bugs which can occure in during the programme using the unittests framework. 
 
